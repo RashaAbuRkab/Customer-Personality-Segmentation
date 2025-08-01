@@ -89,8 +89,8 @@ Contributions are welcome! Fork the repository, create a branch, and submit a pu
 
 ## Contact
 - **GitHub**: [RashaAbuRkab](https://github.com/RashaAbuRkab)
-- **LinkedIn**: [Rasha Abu Rkab](https://www.linkedin.com/in/rasha-abu-rkab)
-- **Email**: rasha.abu.rkab@example.com
+- **LinkedIn**: [Rasha Abu Rkab](https://www.linkedin.com/in/rashaaburkab)
+- **Email**: rashaaburkab@gmail.com
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
