@@ -36,7 +36,6 @@ This project leverages **K-Means Clustering** to segment 2240 customers of a ret
 ```
 Customer-Personality-Segmentation/
 ├── Customer_Personality_Segmentation.ipynb  # Main Jupyter Notebook with code
-├── Customer_Personality_Segmentation.csv   # Dataset
 ├── README.md                              # Project documentation
 └── requirements.txt                       # Dependencies
 ```
